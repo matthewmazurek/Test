@@ -2,4 +2,6 @@ Testing testing testing... and some toasting.
 123.
 456.
 789.
+101112.
+#$% works fine for me.
 Here's to your health!
